@@ -1,5 +1,5 @@
 # python-aulas
-Bem-vindo à página do curso de programação em Python. Aqui, você vai encontrar diversos exemplos que desenvolvi, 
+Bem-vindo(a) à página do curso de programação em Python. Aqui, você vai encontrar diversos exemplos que desenvolvi, 
 para que você possa conhecer a linguagem de programação Python e aplicá-la para Ciência de Dados. O curso está 
 estruturado da seguinte forma:
 
